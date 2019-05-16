@@ -7,5 +7,5 @@
 # 일자별 회의/Output
 | 일자 | 안건 | Slide | 회의록 | 기타 자료 | 
 | --- | --- | ----- | ---- | ------- | 
-| 05/16| 1차 아이디어 빌드 회의 | [Docs](https://docs.google.com/document/d/1utkpsa-vsfbfA3NzTo-CsaR2LsF_XbPx4PRG8cx6dx0/edit)| [Scenario
-](https://docs.google.com/document/d/1lh036YEdXwMMT5SVqAZBq_43u01asm0ZE0QMNCf7FSk/edit)|
+| 05/16| 1차 아이디어 빌드 회의 | [Docs](https://docs.google.com/document/d/1utkpsa-vsfbfA3NzTo-CsaR2LsF_XbPx4PRG8cx6dx0/edit)|
+[Scenario](https://docs.google.com/document/d/1lh036YEdXwMMT5SVqAZBq_43u01asm0ZE0QMNCf7FSk/edit)|
