@@ -1,6 +1,5 @@
-*2019년 1학기 DataBaseSystem Final Assignment
- 
 # 사물함 배정 ChatBot 만들기
+* 2019년 1학기 DataBaseSystem Final Assignment
 * Concept : 사물함을 배정해주는 ChatBot
 * 팀 구성 : 박성원, 허재석, 김민걸, 주해진
 * Task : 텔레그램 기능을 활용한 사물함을 배정해주는 ChatBot 기획하기
