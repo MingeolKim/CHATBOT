@@ -10,5 +10,3 @@
 | --- | --- | ----- | ---- | ------- | 
 | 05/16| 1차 아이디어 빌드 회의|| [Docs](https://docs.google.com/document/d/1utkpsa-vsfbfA3NzTo-CsaR2LsF_XbPx4PRG8cx6dx0/edit)|[Scenario](https://docs.google.com/document/d/1lh036YEdXwMMT5SVqAZBq_43u01asm0ZE0QMNCf7FSk/edit)|
 | 05/30| 2차 데이터베이스 구축 회의|| [Docs]|[DB Query](https://docs.google.com/document/d/1V9FXx68atKqtz2PImGGbynZsxzGoXzt_LddI9sAycTg/edit)|
-
-* Data : [모든사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[사용중 사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[사용하지 않는 사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[신입생명단](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4)
