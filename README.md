@@ -4,7 +4,7 @@
 * Concept : 사물함을 배정해주는 ChatBot
 * 팀 구성 : 박성원, 허재석, 김민걸, 주해진
 * Task : 텔레그램 기능을 활용한 사물함을 배정해주는 ChatBot 기획하기
-
+* 사용한 데이터 : [모든사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[사용중 사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[사용하지 않는 사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[신입생명단](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4)
 
 # 일자별 회의/Output
 | 일자 | 안건 | Slide | 회의록 | 기타 자료 | 
