@@ -3,7 +3,7 @@
 * Concept : 신입생 사물함을 배정해주는 ChatBot
 * Members : 박성원, 허재석, 김민걸, 주해진
 * Task : 텔레그램 기능을 활용한 사물함을 배정해주는 ChatBot 기획하기
-* Data : [모든사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[사용중 사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[사용하지 않는 사물함](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4),[신입생명단](https://drive.google.com/drive/folders/1rKRzJZ1EeyRYRpkmDYAbxJwbybORpuE4)
+* Data : [모든사물함](https://docs.google.com/spreadsheets/d/1V8yGwLFE6OTELSrvAevAfxcYz813_1pjDFI7zdC_V3c/edit#gid=1523292727),[사용중 사물함](https://docs.google.com/spreadsheets/d/1OPm4It-XDr4D925m4vkj00sWoFOojL9k31QuLYNkfII/edit#gid=241330450),[사용하지 않는 사물함](https://docs.google.com/spreadsheets/d/172szNVZvj_i1JxU3Gp0Z3yeXwmflRgZiQieLZLlDVXE/edit#gid=1224535224),[신입생명단](https://docs.google.com/spreadsheets/d/1yXb7HBqh_n2hA7gxZSmBW8RkAjD199bilwulwF7RLVU/edit#gid=1036890610)
 
 # 일자별 회의/Output
 | 일자 | 안건 | Slide | 회의록 | 기타 자료 | 
