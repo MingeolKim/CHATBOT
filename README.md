@@ -10,6 +10,6 @@
 | --- | --- | ----- | ---- | ------- | 
 | 05/16| 1차 아이디어 빌드 회의|| [Docs](https://docs.google.com/document/d/1utkpsa-vsfbfA3NzTo-CsaR2LsF_XbPx4PRG8cx6dx0/edit)|[Scenario](https://docs.google.com/document/d/1lh036YEdXwMMT5SVqAZBq_43u01asm0ZE0QMNCf7FSk/edit)|
 | 05/23| 2차 DataBase 구축 회의|| [Docs](https://docs.google.com/document/d/1gjas-19FhjullgyplfQ7Cfoh8viMiL70cgrPLQVS4-E/edit)|[DB ERD](https://drive.google.com/drive/folders/1hmjH0kY0LB_p1_FZKDFj9UHHqyiOFXSn)|
-| 05/30| 3차 Atom Coding 회의|| [Docs]()|[Atom Codes](https://docs.google.com/document/d/1sf9Mq2LkAQrOsJKnAoMMRhhUjy8lc1tIBeeL3AW1ucw/edit)|
-| 06/06| 1차 Test|||[Result](https://drive.google.com/drive/folders/1zj2sn4hzXNZlFpmpeI0k97ELe7gOra7t)|
+| 05/30| 3차 Atom Coding 회의|| [Docs](https://docs.google.com/document/d/11qmONZNyEO0ImsjwRajVFblZPYeUOsDmnzxD24NBulU/edit)|[Atom Codes](https://docs.google.com/document/d/1sf9Mq2LkAQrOsJKnAoMMRhhUjy8lc1tIBeeL3AW1ucw/edit)|
+| 06/06| 1차 Test|||[1st Result](https://drive.google.com/drive/folders/1zj2sn4hzXNZlFpmpeI0k97ELe7gOra7t)|
 
